@@ -1,4 +1,4 @@
-# India Trade Dashboard
+<img width="1011" height="826" alt="image" src="https://github.com/user-attachments/assets/a2269ef6-3f2b-4caa-97e6-e8cf0ce781cb" /># India Trade Dashboard
 
 ## 📊 Overview
 This project analyzes India's import-export data using an interactive dashboard.
@@ -10,4 +10,4 @@ This project analyzes India's import-export data using an interactive dashboard.
 - Matplotlib
 
 ## ▶️ Run Locally
-streamlit run app.py
+http://localhost:8501/
